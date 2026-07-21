@@ -36,7 +36,4 @@
 <img src="https://skillicons.dev/icons?i=django" width="50"/>
 </a>
 
-<a href="https://learn.microsoft.com/sql/sql-server/">
-<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-</a>
 </p>
