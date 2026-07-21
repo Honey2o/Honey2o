@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/patel-honey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-honey" height="30" width="40" /></a>
 </p>
-## 🛠️ Languages and Tools
-
+<br><br>
+<h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="50" />
   <img src="https://skillicons.dev/icons?i=css" width="50" />
