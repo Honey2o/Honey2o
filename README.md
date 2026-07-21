@@ -16,10 +16,27 @@
 <br>
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="30" />
-  <img src="https://skillicons.dev/icons?i=css" width="30" />
-  <img src="https://skillicons.dev/icons?i=js" width="30" />
-  <img src="https://skillicons.dev/icons?i=python" width="30" />
-  <img src="https://skillicons.dev/icons?i=django" width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
+</a>
+
+<a href="https://www.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="50"/>
+</a>
+
+<a href="https://learn.microsoft.com/sql/sql-server/">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+</a>
 </p>
